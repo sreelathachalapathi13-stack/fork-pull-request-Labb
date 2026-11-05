@@ -1,0 +1,13 @@
+Online Learning Platform
+
+This project demonstrates the
+Fork-and-Pull-Request workflow
+using Git and GitHub.
+
+Features:
+1. Course enrollment
+2. Video lectures
+3. Online assessments
+4. Progress tracking
+
+Contributor: sreelatha
